@@ -12,9 +12,8 @@
 </p>
 <hr />
 <div>
-<b>Stay connected!</b>
+### Stay connected!
 <br>
-Stay updated with the latest content from us!<br>
   <a href="https://discord.com/invite/WqRSPjudFT"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.tiktok.com/@animecodeindo"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
   <a href="https://www.youtube.com/@animecodeindo"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
