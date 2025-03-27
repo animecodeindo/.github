@@ -12,8 +12,8 @@
 </p>
 <hr />
 <div>
-<div align=center>
-  <h3>Welcome to Official Github Repository!</h3>
+<div>
+  <h3>Stay connected!</h3>
   <br />
 </div>
 <br>
