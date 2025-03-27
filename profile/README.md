@@ -12,7 +12,7 @@
 </p>
 <hr />
 <div>
-### Stay connected!
+<h3>Stay connected!</h3>h3>
 <br>
   <a href="https://discord.com/invite/WqRSPjudFT"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.tiktok.com/@animecodeindo"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
