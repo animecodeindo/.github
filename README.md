@@ -6,6 +6,7 @@
   <img src="https://github.com/animecodeindo/.github/blob/main/thumbnail.png?raw=true" align=center>
 </a>
 <br />
+<br />
 <p align=justify>
 <b>Animecode</b> is a YouTube channel that focuses on web development with a touch of anime aesthetics. Animecode has a bunch of coding tutorials, from HTML, CSS, and JavaScript to cool animation techniques you can use in web design. You'll also learn how to create anime-style effects like smooth transitions, hover effects, and dynamic interactions on websites. Don't forget to follow and subscribe to my <a href="https://www.youtube.com/@animecodeindo">YouTube</a> channel! ✌
 </p>
